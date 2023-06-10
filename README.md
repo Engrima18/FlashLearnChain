@@ -20,7 +20,7 @@ If you want to test the code follow the following steps:
 > <img width="262" alt="guide_image" src="https://github.com/Engrima18/FlashLeanrChain/assets/93355495/bfff446e-715f-43cb-941a-8ee175781c96">
 
 3. Run all the cells in the notebook
-4. Download the `flashcards.txt` file in the same `content` directory. This txt file contains a questione-asnwer pair per line
+4. Download the `flashcards.txt` file in the same `content` directory. This txt file contains one questione-asnwer pair per line.
 
 ## Definition of the chain
 We build three blocks for our chain:
