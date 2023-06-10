@@ -34,3 +34,8 @@ We can define below a list of improvements to the project:
 1. make a division of the text into blocks based on data mining algorithms in order to create summaries as clear and specific as possible;
 2. grouping question-answer pairs into decks about the same topic using, for example, Latent Semantic Analysis or Clustering techniques;
 3. use the Openai API and combine the three hand-defined blocks into a SequentialChain of langchain.
+
+## Disclaimer
+
+Our chain was defined on the basis of a free, open, runnable LLM without GPU, but that does not guarantee high quality of results.
+In fact, the real power of langchain can really be harnessed in combination with the Openai model and API.
