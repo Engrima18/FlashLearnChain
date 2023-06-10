@@ -8,5 +8,5 @@ Specifically, the purpose is to give learning support to students in STEM (and o
 ## Usage guide
 If you want to test the code follow the following steps:
 
-1. Use colab to run the notebook  -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg(https://colab.research.google.com/drive/1rdpaBsDhvR9iMWct_-7ydEIxq9ZYCQHp#scrollTo=7M3fZZVPllhv)]
+1. Use colab to run the notebook  -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rdpaBsDhvR9iMWct_-7ydEIxq9ZYCQHp#scrollTo=7M3fZZVPllhv)]
 2. 
