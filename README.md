@@ -13,6 +13,11 @@ If you want to test the code follow the following steps:
 3. Run all the cells in the notebook
 4. Download the `flashcards.txt` file in the same `content` directory. This txt file contains a questione-asnwer pair per line
 
+## Definition of the chain
+We build three blocks for our chain:
+>- **summary block** that takes as input the text chuck and writing style and then summarizes the chunk itself to meet the maximum number of tokens to be given as input to the model locally;
+>- **question block** which takes as input the text summary from the previous block and returns a plausible question about it;
+>- **answer block** that takes as input both the text summary and the question constructed in the previous blocks and formulates an ad hoc answer.
 
 ## Further improvements
 We can define below a list of improvements to the project:
