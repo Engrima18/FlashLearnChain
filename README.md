@@ -18,8 +18,9 @@ If you want to test the code follow the following steps:
 1. Use `colab` to run the notebook  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rdpaBsDhvR9iMWct_-7ydEIxq9ZYCQHp#scrollTo=7M3fZZVPllhv)
 2. Upload a PDF file in the `content` directory in colab
 <img width="262" alt="guide_image" src="https://github.com/Engrima18/FlashLeanrChain/assets/93355495/bfff446e-715f-43cb-941a-8ee175781c96">
-4. Run all the cells in the notebook
-5. Download the `flashcards.txt` file in the same `content` directory. This txt file contains a questione-asnwer pair per line
+
+3. Run all the cells in the notebook
+4. Download the `flashcards.txt` file in the same `content` directory. This txt file contains a questione-asnwer pair per line
 
 ## Definition of the chain
 We build three blocks for our chain:
