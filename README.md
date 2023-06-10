@@ -5,6 +5,13 @@ Small undergraduate project for the course in Statistical Methods for Machine Le
 The main goal of the project is to create a prompt chain that can build a deck of flashcards from a pdf file given as input.\
 Specifically, the purpose is to give learning support to students in STEM (and other) courses by automating the process of creating useful tools such as flashcards.
 
+### Used LLM
+We used `google/flan-t5-base` from HuggingFace.\
+T5 is an encoder-decoder model pre-trained on a multi-task mixture of unsupervised and supervised tasks and for which each task is converted into a text-to-text format. T5 works well on a variety of tasks out-of-the-box by prepending a different prefix to the input corresponding to each task, (e.g., for translation: translate English to German: …, for summarization: summarize: ….).\
+Flan is a pretraining methods that is based on prompting. The Flan-T5 are T5 models trained on the Flan collection of datasets which include: taskmaster2, djaym7/wiki_dialog, deepmind/code_contests, lambada, gsm8k, aqua_rat, esnli, quasc and qed.
+
+[![Share to Community](https://huggingface.co/datasets/huggingface/badges/raw/main/powered-by-huggingface-dark.svg)](https://huggingface.co)
+
 ## Usage guide
 If you want to test the code follow the following steps:
 
