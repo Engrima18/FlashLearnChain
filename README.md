@@ -1,6 +1,7 @@
 # FlashLeanrChains
 
-![Flash (1)](https://github.com/Engrima18/FlashLearnChain/assets/93355495/863aaf30-a38f-4eaf-b925-eb49f1b6b806)
+![Flash (1)](https://github.com/Engrima18/FlashLearnChain/assets/93355495/863aaf30-a38f-4eaf-b925-eb49f1b6b806 =250x250)
+
 Small undergraduate project for the course in Statistical Methods for Machine Learning, to practice with Hugging Face models and the LangChain library
 
 ## Brief description
