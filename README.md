@@ -19,9 +19,7 @@ Flan is a pretraining methods that is based on prompting. The Flan-T5 are T5 mod
 ## Usage guide
 If you want to test the code follow the following steps:
 
-1. Use `colab` to run the notebook  <a target="_blank" href="https://colab.research.google.com/github/Engrima18/FlashLearnChain/blob/main/FlashLearn.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+1. Use `colab` to run the notebook  <a target="_blank" href="https://colab.research.google.com/github/Engrima18/FlashLearnChain/blob/main/FlashLearn.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 2. Upload a PDF file in the `content` directory in colab
 > <img width="262" alt="guide_image" src="https://github.com/Engrima18/FlashLeanrChain/assets/93355495/bfff446e-715f-43cb-941a-8ee175781c96">
 
