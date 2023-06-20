@@ -8,7 +8,6 @@ The main goal of the project is to create a prompt chain that can build a deck o
 Specifically, the purpose is to give learning support to students in STEM (and other) courses by automating the process of creating useful tools such as flashcards.
 
 <br/>
-<br/>
 
 ### Used LLM
 We used `google/flan-t5-base` from HuggingFace.\
