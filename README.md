@@ -6,7 +6,6 @@ Small undergraduate project for the course in **Statistical Methods for Machine 
 
 The main goal of the project is to create a prompt chain that can build a deck of flashcards from a pdf file given as input.\
 Specifically, the purpose is to give learning support to students in STEM (and other) courses by automating the process of creating useful tools such as flashcards.
-
 <br/>
 
 ## Used LLM
