@@ -2,7 +2,7 @@
 Small undergraduate project for the course in **Statistical Methods for Machine Learning**, to practice with **Hugging Face** models and the **LangChain** library
 
 ## Brief description
-<img src="https://github.com/Engrima18/FlashLearnChain/assets/93355495/863aaf30-a38f-4eaf-b925-eb49f1b6b806" width=10% height=10% align="left">
+<img width=200 src="https://github.com/Engrima18/FlashLearnChain/assets/93355495/863aaf30-a38f-4eaf-b925-eb49f1b6b806" width=10% height=10% align="left">
 
 The main goal of the project is to create a prompt chain that can build a deck of flashcards from a pdf file given as input.\
 Specifically, the purpose is to give learning support to students in STEM (and other) courses by automating the process of creating useful tools such as flashcards.
